@@ -1,6 +1,6 @@
 # calculadora-react
 
-Projeto de uma simples calculadora utilizando React, desenvolvido durante o Curso Web Moderno da <a href="https://www.cod3r.com.br/">Cod3r Treinamentos</a>.
+Projeto de uma simples calculadora utilizando React, desenvolvida durante o Curso Web Moderno da <a href="https://www.cod3r.com.br/">Cod3r Treinamentos</a>.
 
 Durante o desenvolvimento dessa calculadora, tive o meu primeiro contato com React. 
 * Compreendi como essa biblioteca funciona e como é a **estrutura dos projetos** desenvolvidos nela. 
