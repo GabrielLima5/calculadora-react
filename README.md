@@ -8,7 +8,7 @@ Durante o desenvolvimento dessa calculadora, tive o meu primeiro contato com Rea
 * Como se trata de uma calculadora, pude exercitar minha **lógica de programação**.
 
 # Como usar
-Para usar e testar a calculadora, você deve executar os seguintes passos:
+Para usar e testar a calculadora, você deve ter o Node.js instalado em sua máquina. Caso ainda não possua o Node instalado, instale-o pelo <a href="https://nodejs.org/en">site oficial</a>. Com o Node em sua máquina, execute os seguintes passos:
 * 1. Abra o terminal, selecione a pasta do projeto e digite o código: 
 ```
 npm install
