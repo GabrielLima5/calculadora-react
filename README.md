@@ -1,5 +1,7 @@
 # calculadora-react
 
+<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Calculadora%20React.jpg">
+
 Projeto de uma simples calculadora utilizando React, desenvolvida durante o Curso Web Moderno da <a href="https://www.cod3r.com.br/">Cod3r Treinamentos</a>.
 
 Durante o desenvolvimento dessa calculadora, tive o meu primeiro contato com React. 
@@ -18,5 +20,3 @@ npm install
 npm start
 ```
 * 3. Pronto! A calculadora estará pronta para ser usada.
-
-<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Calculadora%20React.jpg">
