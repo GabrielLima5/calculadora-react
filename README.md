@@ -1,6 +1,8 @@
 # calculadora-react
 
-Projeto de uma simples calculadora utilizando React, desenvolvido durante o Curso Web Moderno da <a href="cod3r.com.br">Cod3r Treinamentos</a>.
+<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Calculadora%20React.jpg">
+
+Projeto de uma simples calculadora utilizando React, desenvolvida durante o Curso Web Moderno da <a href="https://www.cod3r.com.br/">Cod3r Treinamentos</a>.
 
 Durante o desenvolvimento dessa calculadora, tive o meu primeiro contato com React. 
 * Compreendi como essa biblioteca funciona e como é a **estrutura dos projetos** desenvolvidos nela. 
@@ -8,8 +10,8 @@ Durante o desenvolvimento dessa calculadora, tive o meu primeiro contato com Rea
 * Como se trata de uma calculadora, pude exercitar minha **lógica de programação**.
 
 # Como usar
-Para usar e testar a calculadora, você deve executar os seguintes passos:
-* 1.Abra o terminal, selecione a pasta do projeto e digite o código: 
+Para usar e testar a calculadora, você deve ter o Node.js instalado em sua máquina. Caso ainda não possua o Node instalado, instale-o pelo <a href="https://nodejs.org/en">site oficial</a>. Com o Node em sua máquina, execute os seguintes passos:
+* 1. Abra o terminal, selecione a pasta do projeto e digite o código: 
 ```
 npm install
 ``` 
@@ -18,5 +20,3 @@ npm install
 npm start
 ```
 * 3. Pronto! A calculadora estará pronta para ser usada.
-
-<img src="https://github.com/GabrielLima5/imagens-projetos/blob/main/images/Calculadora%20React.jpg">
