@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/gabriellima5.github.io/calculadora-react/static/css/main.35769b52.css",
-    "main.js": "/gabriellima5.github.io/calculadora-react/static/js/main.200f0c89.js",
+    "main.js": "/gabriellima5.github.io/calculadora-react/static/js/main.35129e0f.js",
     "static/js/787.a0d8d0d4.chunk.js": "/gabriellima5.github.io/calculadora-react/static/js/787.a0d8d0d4.chunk.js",
     "static/media/RobotoMono-Thin.ttf": "/gabriellima5.github.io/calculadora-react/static/media/RobotoMono-Thin.1a9534fd24de76752477.ttf",
     "index.html": "/gabriellima5.github.io/calculadora-react/index.html",
     "main.35769b52.css.map": "/gabriellima5.github.io/calculadora-react/static/css/main.35769b52.css.map",
-    "main.200f0c89.js.map": "/gabriellima5.github.io/calculadora-react/static/js/main.200f0c89.js.map",
+    "main.35129e0f.js.map": "/gabriellima5.github.io/calculadora-react/static/js/main.35129e0f.js.map",
     "787.a0d8d0d4.chunk.js.map": "/gabriellima5.github.io/calculadora-react/static/js/787.a0d8d0d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.35769b52.css",
-    "static/js/main.200f0c89.js"
+    "static/js/main.35129e0f.js"
   ]
 }
